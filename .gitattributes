@@ -1,0 +1,8 @@
+* -text
+
+.gitattributes text eol=lf
+/cardio_herb_db.py text eol=lf
+/cas_to_smiles.py text eol=lf
+*.xlsx binary
+*.xls binary
+*.png binary

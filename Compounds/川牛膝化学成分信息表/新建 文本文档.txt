@@ -1,0 +1,3 @@
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Compounds\\chuanniuxi\\compounds.csv'
+
+C:\Users\Administrator>C:\ProgramData\anaconda3\envs\rdkit_env\python.exe  D:\Compounds\chuanniuxi\image2.py
